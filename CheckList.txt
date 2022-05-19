@@ -1,0 +1,6 @@
+1. Add product
+2. Remove product
+3. Search product 
+4. Choose product
+5. Filter of products
+6. Change the amount of product
